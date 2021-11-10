@@ -261,3 +261,6 @@ CATKIN_IGNORE
 !.vscode/*.code-snippets
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,ros,c++,cmake,python
+.catkin_workspace
+src/CMakeLists.txt
+.vscode/settings.json
